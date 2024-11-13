@@ -5,7 +5,7 @@
 This project aims to visualize the burden of Tuberculosis (TB) among children and adolescents globally, using data from the 2021 Global Burden of Disease Study (GBD 2021). Our visualizations focus on TB incidence, mortality, and Disability-Adjusted Life Years (DALYs) across different regions, ages, and genders from 1990 to 2021.
 
 ## Data Source
-The data used in this project is derived from the Global Burden of Disease Study 2021. It includes TB incidence, mortality, and DALYs for individuals aged 0 to 19 years in 204 countries and regions. The data are analyzed and visualized to provide insights into trends over time and disparities by geographic location and socio-demographic index (SDI).
+The data used in this project is derived from the Global Burden of Disease Study 2021(https://vizhub.healthdata.org/gbd-results/). It includes TB incidence, mortality, and DALYs for individuals aged 0 to 19 years in 204 countries and regions. The data are analyzed and visualized to provide insights into trends over time and disparities by geographic location and socio-demographic index (SDI).
 
 ## Features
 - **Incidence Visualization**: Plots showing TB incidence rates globally and by region.
