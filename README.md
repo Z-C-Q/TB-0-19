@@ -16,7 +16,7 @@ The data used in this project is derived from the Global Burden of Disease Study
 ## Dependencies
 To run the R scripts in this repository, you will need:
 
-'''
+```
 R version 4.4.1 (2024-06-14)
 Platform: aarch64-apple-darwin20
 Running under: macOS 15.0.1
@@ -45,4 +45,4 @@ other attached packages:
 [29] tidyr_1.3.1              tibble_3.2.1             ggplot2_3.5.1            tidyverse_2.0.0         
 [33] readxl_1.4.3             DT_0.33                  shinyWidgets_0.8.6       shinydashboardPlus_2.0.4
 [37] shinydashboard_0.7.2     shiny_1.9.1 
-'''
+```
